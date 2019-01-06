@@ -1,0 +1,22 @@
+body {
+	margin: 0px;
+}
+.top-bar {
+	line-height: 38px;
+	border-bottom: 1px solid #eee;
+	color: #818181;
+	text-align: right;
+	width: 100%;
+}
+
+.td-cadastrar {
+    width: 110px;
+    text-align: center;
+}
+.div-img-logo {
+	text-align: center;
+}
+.img-logo {
+	width: 200px;
+	height: 200px;
+}
